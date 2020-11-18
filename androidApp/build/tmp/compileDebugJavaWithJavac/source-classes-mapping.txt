@@ -1,2 +1,0 @@
-com/victorlaerte/kmmapp/androidApp/BuildConfig.java
- com.victorlaerte.kmmapp.androidApp.BuildConfig
